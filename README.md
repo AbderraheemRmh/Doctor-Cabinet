@@ -9,7 +9,7 @@ Doctor Cabinet is a **Patient Management System** designed to help doctors, nurs
 - 👤 **Patient Management**: Add, update, and delete patient records.
 - 📅 **Appointment Scheduling**: Book and manage appointments for doctors and patients.
 - 📊 **Data Visualization**: Generate reports and analytics using **Matplotlib** and **Plotly**.
-- ✅ **Status Tracking**: Mark appointments as "Completed" or "Cancelled" dynamically.
+- ✅ **Status Tracking**: Mark appointments as "Done" or "Cancelled".
 - 📂 **Export Data**: Download appointment and patient records in **Excel format**.
 - 🔄 **Data Import**: Import existing patient and appointment data into the system.
 
@@ -52,15 +52,6 @@ streamlit run login.py
 | ![Dashboard](screenshots/dashboard.PNG) | ![Nurse](screenshots/nurses.PNG) |
 | ![Dashboard](screenshots/dashboard1.PNG) | ![Nurse](screenshots/nurses1.PNG) |
 | ![Dashboard](screenshots/dashboard2.PNG) | ![Nurse](screenshots/nurses2.PNG) |
-
----
-
-## 🤝 Contributing
-1. **Fork** the repository.
-2. **Create a new branch**: `git checkout -b feature-name`
-3. **Commit your changes**: `git commit -m "Added new feature"`
-4. **Push to GitHub**: `git push origin feature-name`
-5. **Create a Pull Request**.
 
 ---
 
