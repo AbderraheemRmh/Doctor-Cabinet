@@ -49,9 +49,9 @@ streamlit run login.py
 ## 📸 Screenshots
 | Dashboard | Nurse Management |
 |-----------|----------------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Nurse](screenshots/nurses.png) |
-| ![Dashboard](screenshots/dashboard1.png) | ![Nurse](screenshots/nurses1.png) |
-| ![Dashboard](screenshots/dashboard2.png) | ![Nurse](screenshots/nurses2.png) |
+| ![Dashboard](screenshots/dashboard.PNG) | ![Nurse](screenshots/nurses.PNG) |
+| ![Dashboard](screenshots/dashboard1.PNG) | ![Nurse](screenshots/nurses1.PNG) |
+| ![Dashboard](screenshots/dashboard2.PNG) | ![Nurse](screenshots/nurses2.PNG) |
 
 ---
 
